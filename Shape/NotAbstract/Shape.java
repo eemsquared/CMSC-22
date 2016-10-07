@@ -1,6 +1,6 @@
 package lab;
 
-public abstract class Shape {
+public class Shape {
 	  protected String color;
 	  protected boolean filled;
 	  
